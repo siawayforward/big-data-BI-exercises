@@ -1,2 +1,2 @@
-# Python
+# Python LogisticsRBus
 Python project creating a text application for a bus scheduling system in East Africa. Allows drivers to schedule days of work and work routes, a bus owner to assign drivers schedules and buses, and the admin (local government) to do quality control of the buses on the road, the owners in the system, and the bus drivers (future phase includes checking licenses and tracking bus repairs and maintenance)
