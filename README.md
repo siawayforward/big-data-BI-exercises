@@ -1,5 +1,2 @@
 # Python
-Python work including:
-- Personal Projects
-- Class assignments
-- Practice Exercises
+Python work completed for data analysis and software development including personal projects, class assignments, practice exercises
