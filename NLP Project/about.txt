@@ -16,7 +16,7 @@ Pre processing will include:
 - remove stopwords
 - vectorize
 
-Python libraries attempted
+Python libraries attempted:
 --------------------------
 - scikit learn
 - nltk
